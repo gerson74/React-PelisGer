@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image, StyleSheet, Text, View } from 'react-native';
-import { Movie } from '../api/movies';
+import { Movie } from '../src/api/movies';
 
 type Props = {
   movie: Movie;
